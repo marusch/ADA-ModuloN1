@@ -2,6 +2,8 @@
 
 📌 - Desarrollo del modulo N°1 con las alumnas.
 
+✋🏽 - Recuerden siempre entrar en las carpetas SRC.
+
 📚 - Encontraremos de la primer clase Declaraciones.
 
 📚 - Practicas de la guia N° 1, Acostumbrarnos a la sintaxis - Ejercicios y Resoluciones.
