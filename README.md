@@ -6,7 +6,7 @@
 
 📚 - Encontraremos de la primer clase Declaraciones.
 
-📚 - Practicas de la guia N° 1, Acostumbrarnos a la sintaxis - Ejercicios y Resoluciones.
+📚 - Practicas de la guia N° 1, Acostumbrarnos a la sintaxis de JAVA - Ejercicios y Resoluciones.
 
 📚 - Practicas de la guia N° 2, Estructutras de condicion - sentencias y bucles.
 
